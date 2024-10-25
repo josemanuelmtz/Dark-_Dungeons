@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\marti\\Documents\\Videojuegos\\Dungeon\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{601AD460-7921-7182-8F78-1F3B28419D18}|Assembly-CSharp.csproj|c:\\users\\marti\\documents\\videojuegos\\dungeon\\assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601AD460-7921-7182-8F78-1F3B28419D18}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601AD460-7921-7182-8F78-1F3B28419D18}|Assembly-CSharp.csproj|c:\\users\\marti\\documents\\videojuegos\\dungeon\\assets\\scripts\\spawnlevel1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601AD460-7921-7182-8F78-1F3B28419D18}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawnlevel1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{601AD460-7921-7182-8F78-1F3B28419D18}|Assembly-CSharp.csproj|c:\\users\\marti\\documents\\videojuegos\\dungeon\\assets\\menuinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{601AD460-7921-7182-8F78-1F3B28419D18}|Assembly-CSharp.csproj|solutionrelative:assets\\menuinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{601AD460-7921-7182-8F78-1F3B28419D18}|Assembly-CSharp.csproj|c:\\users\\marti\\documents\\videojuegos\\dungeon\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{601AD460-7921-7182-8F78-1F3B28419D18}|Assembly-CSharp.csproj|C:\\Users\\marti\\Documents\\Videojuegos\\Dungeon\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{601AD460-7921-7182-8F78-1F3B28419D18}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,11 +26,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpawnLevel1.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Documents\\Videojuegos\\Dungeon\\Assets\\Scripts\\SpawnLevel1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpawnLevel1.cs",
+              "ToolTip": "C:\\Users\\marti\\Documents\\Videojuegos\\Dungeon\\Assets\\Scripts\\SpawnLevel1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpawnLevel1.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T22:06:04.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EnemyAI.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Documents\\Videojuegos\\Dungeon\\Assets\\Scripts\\EnemyAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyAI.cs",
+              "ToolTip": "C:\\Users\\marti\\Documents\\Videojuegos\\Dungeon\\Assets\\Scripts\\EnemyAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyAI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T22:05:54.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MenuInicial.cs",
               "DocumentMoniker": "C:\\Users\\marti\\Documents\\Videojuegos\\Dungeon\\Assets\\MenuInicial.cs",
               "RelativeDocumentMoniker": "Assets\\MenuInicial.cs",
@@ -35,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "C:\\Users\\marti\\Documents\\Videojuegos\\Dungeon\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
@@ -43,8 +77,7 @@
               "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAUwAsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T00:01:01.882Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-12T00:01:01.882Z"
             }
           ]
         }
